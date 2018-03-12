@@ -1,4 +1,29 @@
 .header {
-	margin-top: 5rem;
+	
 	text-align: center;
 }
+
+.banner img {
+  /*background-image: url('../images/header.jpg');
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem;*/
+  max-width: 100%;
+  
+}
+
+body {
+	background-color: #EEEEEE;
+}
+
+/*.banner-multiplier {
+  margin-bottom: .5rem;
+  color: #11DFC7;
+}
+.banner-heading {
+  margin-bottom: .3rem;
+}
+
+.row {
+	margin-bottom: 2rem;
+}*/
